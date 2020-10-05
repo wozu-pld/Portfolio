@@ -1,0 +1,33 @@
+body{
+    background-color: #032c63;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+p{
+    color: aliceblue;
+    margin: 50px;
+}
+
+h1{
+    background-color: aliceblue;
+    text-decoration: underline;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 50px;
+}
+
+h3{
+    background-color: aliceblue;
+    text-decoration: underline;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+img{
+    padding: 20px;
+    border-radius: 50px;
+}
